@@ -1,8 +1,10 @@
 {
     "files.associations": {
+        "queue": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp",
-        "xstring": "cpp",
-        "string": "cpp"
+        "stack": "cpp",
+        "xiosbase": "cpp",
+        "fstream": "cpp",
+        "ostream": "cpp"
     }
 }
